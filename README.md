@@ -5,7 +5,7 @@ AIology is a CLI tool designed to transcribe, translate, and summarize videos, m
 ## Features
 
 - **Transcribe** audio and video files to text using OpenAI's Whisper model.
-- **Translate** text between English and Mandarin using OpenAI's GPT models.
+- **Translate** text between English, Mandarin, and many more languages using OpenAI's GPT models.
 - **Summarize** video content in a concise, human-readable format.
 
 ## Installation
