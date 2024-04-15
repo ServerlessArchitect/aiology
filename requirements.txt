@@ -1,0 +1,8 @@
+icecream
+moviepy
+openai
+python-magic
+rich
+spacy
+tiktoken
+typer
