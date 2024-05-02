@@ -1,6 +1,7 @@
 icecream
 moviepy
 openai
+python-libmagic
 python-magic
 rich
 spacy
